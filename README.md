@@ -30,7 +30,16 @@ Master the art of trading with the Hybrid Trends A.I. Indicator. Powered by arti
 
 The Hybrid Trends A.I. Indicator is a powerful tool that helps traders make more precise decisions in financial markets. Explore its potential, understand its settings, and enhance your trading strategies.
 
-For more information, visit our website at [smarttradingindicators.com](https://www.smarttradingindicators.com).
+## Contact
+
+For more information, visit our website at [smarttradingindicators.com](https://www.smarttradingindicators.com) or send us an email at: support@smarttradingindicators.com
+
+## 📱 Social Media
+
+Follow us on our social media platforms for the latest updates and insights:
+
+- [Instagram: @smarttradingindicators](https://instagram.com/smarttradingindicators?igshid=OGQ5ZDc2ODk2ZA==)
+- [Twitter: @smartindicators](https://twitter.com/smartindicators)
 
 ## 🔒 Note on Code Access
 
